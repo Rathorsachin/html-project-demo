@@ -1,3 +1,3 @@
 # html-project-demo
-Author- Sachin Rathore</br>
+Author- Sachin Rathore<br>
 Address - Noida
